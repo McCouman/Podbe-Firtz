@@ -1,7 +1,11 @@
 Podbe-Firtz
 ===========
 
-<a href="http://firtz.org">Firtz</a> im Podbe Style mit Foundation Framework.
+<a href="http://firtz.org">Firtz</a> im <a href="http://podbe.de">Podbe</a> Style, erstellt mit dem <a href="http://foundation.zurb.com/">Foundation Framework</a>.
+
+
+=> <a href="http://foundation.wikibyte.org/podbe/show/page/Archiv">Demo ansehen</a>
+
 
 ###Screenshots
 
