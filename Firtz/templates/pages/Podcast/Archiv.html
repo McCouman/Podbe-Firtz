@@ -1,0 +1,31 @@
+<repeat group="@items" value="{{@item}}">	
+<div class="row">	
+	<div class="large-2 columns">
+		<img class="im th responsive" src="{{@item.image}}">
+		<br>
+	</div>	
+	<div class="large-10 columns">
+		<h4 class="media-heading">{{@dict_pubdate,strtotime(@item.pubDate) | format}}: <a href="/{{@feedattr.slug}}/show/{{@item.slug}}" name="{{@item.slug}}">
+			<span class="text-center">{{@item.title}}</span></a>
+		</h4>	
+			
+		<p>{{@item.description}}<br>
+		<check if="{{@item.duration}}">{{@dict_duration}}: {{@item.duration}}</check></p>
+		<p>
+		<a class="right small round button" data-reveal-id="Modal{{@item.slug}}">Jetzt Reinhören</a>
+		Moderator: {{@feedattr.author | raw}}
+		</p>
+		
+		
+		
+		<div id="Modal{{@item.slug}}" class="reveal-modal" data-reveal>					
+  			<a class="close-reveal-modal">&#215;</a>
+  			<h4><center><b>Aus dem Archiv:</b> {{@item.title}}</center></h4>
+  			<hr>
+  			
+			<div><include href="podlove-player.html"/></div>
+		</div>
+	</div>
+</div>
+<hr />
+</repeat>

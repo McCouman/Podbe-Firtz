@@ -1,0 +1,53 @@
+#: Dies ist eine Episode
+#: gewöhne Dir eine vernünftige Benennung der Dateien an. Vielleicht 001 bis 999, dann behälst Du Sortierung und Überblick.
+
+title:
+Demo - Episode I
+
+date:
+2013-02-15 20:00:00
+
+description:
+Kurz und knackig
+
+article:
+Stell Dir vor, das hier ist ein CMS. Dann wäre das hier der Artikel zum Podcast. Ich glaube, die Begrenzung liegt seitens iTunes bei 40.000 Zeichen.
+
+Du kannst also gerne ausführlich werden. Geize nicht mit Informationen :)
+
+keywords:
+auch hier dann wieder, eine, kommagetrennte, vernünftige Stichwortliste. Sei auch hier nicht geizig, aber auch nicht zu unspezifisch!
+
+#: Die Dauer gibst Du bitte mit "HH:MM:SS" an. Danke!
+duration:
+01:23:45
+
+chapters:
+00:00:00 Intro <http://firtz.org/> <http://firtz.hoersuppe.de/feedimages/firtz.png>
+00:09:12 Ziemlich in der Mitte <http://hoersuppe.de/> <http://hoersuppe.de/wp-content/uploads/2012/06/basic_avatar_200_notp.png>
+00:18:00 Kurz vor Ende <http://podlove.org/> <https://raw.github.com/podlove/podlove-web-player/2.0.x/podlove-web-player/samples/coverimage.png>
+00:18:22 Ja, die Kapitel hier sind wirklich nur zu Demozwecken da... <http://shownot.es/> <http://shownot.es/img/shwnts.png>
+
+#: Ich lasse für die Demozwecke mal die Audiodateien der ersten firtz-Episode hier stehen. Dann hast Du was zum Spielen.
+
+mp3:
+http://podcast.hoersuppe.de/fz001.mp3
+
+m4a:
+http://podcast.hoersuppe.de/fz001.m4a
+
+opus:
+http://podcast.hoersuppe.de/fz001.opus
+
+torrent:
+http://podcast.hoersuppe.de/fz001.torrent
+
+
+adntoken: 
+AQAAAAAACrcj8x8-o0kDpMB7Fal-IkusTz4Rwpw4F0uhWxaJGSobE85tw0KURB73y5ouPXoh7ggWlyIlzCdoMbvfe1sVReSy2g
+
+adnthread:
+27859247
+
+
+

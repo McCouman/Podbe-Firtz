@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="{{ @frontlanguage }}">
+  <head>
+    <meta charset="utf-8" />
+    <title>{{@fronttitle}}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="{{@frontauthor}}">
+	<link rel="stylesheet" href="{{@BASEURL}}css/foundation.css" />
+    <script src="{{@BASEURL}}js/vendor/modernizr.js"></script>
+    
+    <link rel="shortcut icon" href="./favicon.png">
+	</head>
+
+
+  <body>
+
+    <div class="container-narrow">
+		<h2>This site hosts the following podcasts</h2>
+		<div class="row-fluid marketing">
+
+		<repeat group="@frontfeeds" value="@feed">
+
+			<div class="media">
+				<a class="pull-left" href="{{@feed.baseurl}}/{{@feed.slug}}/show/">
+					<img class="media-object" src="{{@feed.image}}" width=100>
+				</a>
+				<div class="media-body">
+					<h2><a  href="{{@feed.baseurl}}/{{@feed.slug}}/show/">{{@feed.title}}</a></h2>
+					<h4>{{@feed.description}}</h4>
+				</div>
+			</div>
+			<hr>
+		</repeat>
+
+		</div>
+		<div class="footer">
+		</div>
+    </div>
+    
+	
+	
+	
+	<script src="{{@BASEURL}}js/vendor/jquery.js"></script>
+    <script src="{{@BASEURL}}js/foundation.min.js"></script>
+    <script src="{{@BASEURL}}js/foundation/foundation.magellan.js"></script>
+    <script src="{{@BASEURL}}js/foundation/foundation.reveal.js"></script>
+    <script>
+      $(document).foundation();
+    </script>
+    
+    
+
+	
+  </body>
+</html>
