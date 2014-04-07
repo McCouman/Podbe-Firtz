@@ -10,15 +10,19 @@ Podbe-Firtz
 ####Page:
 <img src="https://raw.githubusercontent.com/McCouman/Podbe-Firtz/master/screen.png">
 
+----
+
 ####Page Navigation Show:
 <img src="https://raw.githubusercontent.com/McCouman/Podbe-Firtz/master/screen-show.png">
+
+----
 
 ####Archiv + Player:
 <img src="https://raw.githubusercontent.com/McCouman/Podbe-Firtz/master/screen-archiv.png">
 
+----
 
-
-####Unterstützen Podbe
+####Unterstützen:
 unterstütze die Entwicklungen des Firtz:
 <!--Firtz-->
 <a href="https://flattr.com/profile/eazyliving">
