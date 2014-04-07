@@ -5,8 +5,31 @@ Podbe-Firtz
 
 ###Screenshots
 
+----
+
+####Page:
 <img src="https://raw.githubusercontent.com/McCouman/Podbe-Firtz/master/screen.png">
+
+####Page Navigation Show:
 <img src="https://raw.githubusercontent.com/McCouman/Podbe-Firtz/master/screen-show.png">
-<img src="https://github.com/McCouman/Podbe-Firtz/blob/master/screen-archiv.png">
+
+####Archiv + Player:
+<img src="https://raw.githubusercontent.com/McCouman/Podbe-Firtz/master/screen-archiv.png">
+
+
+
+####Unterstützen Podbe
+unterstütze die Entwicklungen des Firtz:
+<!--Firtz-->
+<a href="https://flattr.com/profile/eazyliving">
+<img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
+alt="Flattr This" title="Flattr This" style="max-width:100%;"> Christian Bednarek</a> 
+
+
+unterstütze die Entwicklungen von Podbe.de:
+<!--McCouman-->
+<a href="https://flattr.com/profile/mccouman">
+<img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
+alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael (mccouman)</a> 
 
 
