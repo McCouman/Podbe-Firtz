@@ -38,6 +38,6 @@ unterstütze die Entwicklungen von Podbe.de:
 <!--McCouman-->
 <a href="https://flattr.com/profile/mccouman">
 <img src="https://raw.github.com/ReliveRadio/reliveradio-ressources/master/flattr/rr-flattr-buttons.jpg" 
-alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael (mccouman)</a> 
+alt="Flattr This" title="Flattr This" style="max-width:100%;"> Michael McCouman Jr.</a> 
 
 
